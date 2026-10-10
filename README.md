@@ -2,9 +2,9 @@
 
 Interactive visual reference for the built-in functions of AGSL, Android's shading language. Each function has an animated, draggable diagram with live values and example code.
 
-**Live:** https://akexorcist.github.io/agsl-visual-reference/
+**Live:** https://agsl.akexorcist.dev
 
-[![AGSL Visual Reference](og-image.png)](https://akexorcist.github.io/agsl-visual-reference/)
+[![AGSL Visual Reference](og-image.png)](https://agsl.akexorcist.dev)
 
 ## Reference
 
